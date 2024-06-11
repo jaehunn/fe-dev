@@ -31,3 +31,6 @@ dist-ssr
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+# vite cache
+.vite
