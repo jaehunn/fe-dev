@@ -1,5 +1,11 @@
+import Example from "./function";
+
 function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <Example />
+    </div>
+  );
 }
 
 export default App;
